@@ -12,13 +12,13 @@ This README outlines the steps used to set up a clean and functional Python proj
 
 3. Create a Python virtual environment to isolate project dependencies and activate it.
 
-4. Update `pip` if necessary to ensure package installations run correctly.
+4. Update pip if necessary to ensure package installations run correctly.
 
-5. Install any Python packages required for the project using `pip`.
+5. Install any Python packages required for the project using pip.
 
-6. Save all installed packages and their versions into a `requirements.txt` file to support reproducibility.
+6. Save all installed packages and their versions into a requirements.txt file to support reproducibility.
 
-7. Add the virtual environment folder to the `.gitignore` file, so Git does not track it.
+7. Add the virtual environment folder to the .gitignore file
 
 8. In VS Code, select the Python interpreter associated with the virtual environment.
 
